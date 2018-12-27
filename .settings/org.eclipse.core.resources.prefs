@@ -1,0 +1,10 @@
+eclipse.preferences.version=1
+encoding//src/cards/fiveMembersPanel.java=UTF-8
+encoding//src/cards/fourBooksPanel.java=UTF-8
+encoding//src/tables/MemberById.java=UTF-8
+encoding//src/tables/MemberByName.java=UTF-8
+encoding//src/tables/MembersTable.java=UTF-8
+encoding//src/tables/TransactionsByBookId.java=UTF-8
+encoding//src/tables/TransactionsByMemberId.java=UTF-8
+encoding//src/tables/TransactionsByTransId.java=UTF-8
+encoding//src/tables/TransactionsTable.java=UTF-8
