@@ -20,3 +20,12 @@ or unable to be resolved simply follow these steps.
     This is the main class. You may either use thre 'run as' button supplied 
     on the upper toolbar displayed as a green arrow, or you may simply right 
     click this file and select run as.
+
+TO DO LIST:
+
+(1) Sanitization of Inputs
+
+(2) We are still debating whether to convert this current iteration to a 
+    functional web application or whether to start a whole new project based off
+    of this one, when studies allow for it. Either way, some Http:Servlet based web 
+    functionality will be implemented.
